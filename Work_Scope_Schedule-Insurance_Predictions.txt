@@ -46,18 +46,23 @@ There was an issue:
 1) The SQLITE column insertion algorithm was initially written using Order n. Several hours, 3-5 hours, were spent troubleshooting and rerunning. The problem was resolved by replacing the algorithm with a Constant Time Algorithm.
 
 DAY 4 - AUGUST 9TH, 2016 - TUESDAY:
- Work Halted!
+ In Progress... (Aug 10th)
 
 MAKING SENSE OUT OF THE DATA TO SPEAK THE SCENARIO
-1) Defining metrics by dissecting the data from the DB.
-2) Begin writing a report- Story Telling
+1) Defining metrics by dissecting the data from the DB. (In Progress - Aug 10th)
+2) Begin writing a report- Story Telling (In Progress- Aug 10th)
 3) Detailed Story Telling and tieing down co-founding reasons for prediction.
 
 DAY 4 - RESULT:
 None of the tasks could be accomplished.
 There was a constant issue with Ubuntu 16 and Pycharm 2016.2.
 Purged Ubuntu 16 and installed Mint 18 for stability, and prepared the OS. Trying different versions of Pycharm, an issue with JSON loader for Jupyter. Uninstalled Anaconda 2-4.1.1 and installing 2-4.0.0, and installing Pycharm 2016.1 which supports Jupyter.
-
+Problem Resolved -
+System Stable :
+    a) Mint 18 LTS Sarah - Cinnamon
+    b) Pycharm 2016.1
+    c) Anaconda 2-4.00 - updated matplot lib to 1.5.1
+   d) Performed initial updates and setup for Mint 18 for stability.
 
 DAY 5 - AUGUST 10TH, 2016 - WEDNESDAY:
 PENDING...
