@@ -33,12 +33,12 @@ DAY 1 Issues Resolved:
 5) Nvidia card exclusive use is bringing stability to Pycharm and the text/code has become more legible.  
 
 DAY 3 - AUGUST 8TH, 2016 - MONDAY:
-IN PROGRESS... (Aug 9th)
+IN PROGRESS... (Aug 9th, Aug 10th)
 
 ADDING MORE COMMENTS TO THE PYTHON NOTEBOOK, PREPARING THE DATA FOR DISSECTION
 1) Defining the comments and tags of the Python workbook,(Complete - Aug 8th)
-2) Storing the Training Set into SQLITE DB, (In Progress - Aug 9th)
-3) Sorting out the data in the DB - Data Preparation. (In Progress- Aug 9th)
+2) Storing the Training Set into SQLITE DB, (In Progress - Aug 9th, Aug 10th)
+3) Sorting out the data in the DB - Data Preparation. (In Progress- Aug 9th, Aug 10th)
 
 DAY 3 - RESULT:
 Task 1 complete, and started working on Task 2 but it was an end of the work day.
