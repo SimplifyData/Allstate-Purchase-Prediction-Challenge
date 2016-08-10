@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2998549766">
+  <component name="DataSourceManagerImpl" format="xml" hash="4286101410">
     <data-source source="LOCAL" name="Sqlite (Xerial) - AllState_KaggleDB.sqlite" uuid="9b1457ba-0743-42b7-a4a3-81a48ec40148">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
