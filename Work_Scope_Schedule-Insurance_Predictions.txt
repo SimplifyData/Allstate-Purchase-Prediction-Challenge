@@ -33,11 +33,11 @@ DAY 1 Issues Resolved:
 5) Nvidia card exclusive use is bringing stability to Pycharm and the text/code has become more legible.  
 
 DAY 3 - AUGUST 8TH, 2016 - MONDAY:
-IN PROGRESS... (Aug 9th, Aug 10th, Aug 11th)
+IN PROGRESS... (Aug 9th, Aug 10th, Aug 11th, Aug 12th)
 
 ADDING MORE COMMENTS TO THE PYTHON NOTEBOOK, PREPARING THE DATA FOR DISSECTION
 1) Defining the comments and tags of the Python workbook,(Complete - Aug 8th)
-2) Storing the Training Set into SQLITE DB, (In Progress - Aug 9th, Aug 10th, Aug 11th)
+2) Storing the Training Set into SQLITE DB, (In Progress - Aug 9th, Aug 10th, Aug 11th, Aug 12th)
 3) Sorting out the data in the DB - Data Preparation. (In Progress- Aug 9th, Aug 10th, Aug 11th)
 
 DAY 3 - RESULT:
@@ -46,7 +46,7 @@ There was an issue:
 1) The SQLITE column insertion algorithm was initially written using Order n. Several hours, 3-5 hours, were spent troubleshooting and rerunning. The problem was resolved by replacing the algorithm with a Constant Time Algorithm.
 
 DAY 4 - AUGUST 9TH, 2016 - TUESDAY:
- In Progress... (Aug 10th, Aug 11th)
+ In Progress... (Aug 10th, Aug 11th, Aug 12th)
 
 MAKING SENSE OUT OF THE DATA TO SPEAK THE SCENARIO
 1) Defining metrics by dissecting the data from the DB. (In Progress - Aug 10th, Aug 11th)
